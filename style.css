@@ -10,7 +10,7 @@ body{
     text-align: center;
     top: 40%;
     width: 100%;
-    line-height: 0.5rem;
+    line-height: 1rem;
 }
 
 h1{
@@ -21,8 +21,8 @@ h1{
     color: #fff;
     text-decoration: none;
     border: #ccc 1px solid;
-    padding: 10px 15px;
-    border-radius: 8px;
+    padding: 20px 30px;
+    border-radius: 16px;
     line-height: 4em;
 }
 

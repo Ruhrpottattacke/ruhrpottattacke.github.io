@@ -33,7 +33,7 @@ h1{
 }
 
 #particles-js{
-    background: url("night-sky.jpg") no-repeat center center fixed;
+    background: url("https://fedoraproject.org/w/uploads/a/a6/F33_wallpaper_dusk.jpg") no-repeat center center fixed;
     background-size: cover;
     height: 100vh;
 }
